@@ -1,0 +1,43 @@
+<mxfile host="Electron" modified="2023-08-31T16:54:39.411Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="wxq1zAuFsx9gX4mVKQpT" version="21.6.8" type="device">
+  <diagram name="Page-1" id="JZbK2eqJrNMYJgX-Zwv5">
+    <mxGraphModel dx="808" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-1" value="Website Visitor" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjwX5mkzMGXlBBL_PrB1-2" target="fjwX5mkzMGXlBBL_PrB1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjwX5mkzMGXlBBL_PrB1-2" target="fjwX5mkzMGXlBBL_PrB1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-2" value="Website has 2 options:&lt;br&gt;1. Chat-Bot&lt;br&gt;2. Go to home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="30" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-3" value="1. Chat-bot lets you send a message that the other person can read accordingly and reply back" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="15" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjwX5mkzMGXlBBL_PrB1-5" target="fjwX5mkzMGXlBBL_PrB1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fjwX5mkzMGXlBBL_PrB1-5" target="fjwX5mkzMGXlBBL_PrB1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-5" value="2. Click on Home button" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-7" value="MENU---&lt;br&gt;2.a Bio (About me)&lt;br&gt;2.b Education&lt;br&gt;2.c Work experience&lt;br&gt;2.d CSR initiative&lt;br&gt;2.e Products&lt;br&gt;2.f Technology-ground" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="360" width="145" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-9" value="SOCIAL LINKS---&lt;br&gt;1. LinkedIn&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2. Github&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3. VK.com" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="217.5" width="290" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="fjwX5mkzMGXlBBL_PrB1-11" value="End of visit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
